@@ -10,10 +10,10 @@ export const state = {
     shadowBlur: 120,
     shadowOffsetX: 1,
     shadowOffsetY: 1,
-    watermark: "@梦爱吃鱼",
+    watermark: "@XINGJI",
     textSize: 200,
     squareSize: 300,
-    text: '梦爱吃鱼',
+    text: 'XINGJI',
     bgBlur: 3,
     iconBackground: false,
     iconBorder: false
